@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<p align="center">- 🎄 Happiness is not something ready made. It comes from your own actions.<br>- ⚡ Let's go </p>
+<p align="center">- 🎄 Happiness is not something ready made. It comes from your own actions.<br>- ⚡ So, we should actively create it instead of waiting passively. </p>
 
 ###
 
@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-<!--   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  /> -->
-  <img width="12" />
+<!--   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
@@ -47,8 +47,8 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-<!--   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  /> -->
-  <img width="12" />
+<!--   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
 </div>
 
