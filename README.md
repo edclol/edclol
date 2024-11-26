@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<p align="center">- 📚 I'm currently learning how to write clean code<br>- ⚡ In my free time I like to write some code and babysit</p>
+<p align="center">- 🎄 Happiness is not something ready made. It comes from your own actions.<br>- ⚡ Let's go </p>
 
 ###
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+<!--   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  /> -->
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
   <img width="12" />
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+<!--   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  /> -->
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
 </div>
